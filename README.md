@@ -1,5 +1,5 @@
 # NBA-2023
-In this project We have used NBA API and used Tableau for visualizing the data. Here one can check his best NBA team and it's status .
+In this project, NBA API and Tableau is used for extracting data from API and visualizing the data via Tableau. Here one can check his best NBA team and it's location worlwide over an interactive map with hiighlighting details of the NBA Teams.
 
 Uploaded files:
 
